@@ -1,0 +1,5 @@
+cd daltonize
+
+python daltonize.py -d -t=p /Users/Taneem/daltonize/example_images/Ishihara_Plate_7.jpg /Users/Taneem/daltonize/example_images/daltonize_Ishihara_Plate_7.jpg
+
+python customdataset.py
