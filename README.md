@@ -1,4 +1,4 @@
-Autoencoder-Based Enhancement of Daltonized Images for Color Vision Deficiency (CVD): A Comparative Study with Glass-Based Correction
+## Autoencoder-Based Enhancement of Daltonized Images for Color Vision Deficiency (CVD): A Comparative Study with Glass-Based Correction
 
 Color vision deficiency is the most common difficulty every human being faces. Currently, medical science lacks a longterm remedy. The subject of this research is to expose artificial intelligence methods as profound studies that aim at material, tangible visualization through images of color blindness in humanity, hence becoming a hope that technology will eventually fill the gap in color perception. 
 
